@@ -19,6 +19,8 @@ function About() {
           applying innovative ideas to achieve growth and support the success of
           dynamic organizations
         </p>
+
+        <p>hyyyyy</p>
       </div>
     </>
   );
