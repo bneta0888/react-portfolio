@@ -20,7 +20,6 @@ function About() {
           dynamic organizations
         </p>
 
-        <p>hyyyyy</p>
       </div>
     </>
   );
