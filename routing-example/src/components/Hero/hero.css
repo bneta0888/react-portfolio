@@ -1,0 +1,43 @@
+.v-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.greetings {
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    border-radius: 250px;
+    width: fit-content;
+    padding: 8px 15px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.space {
+    height: 30px;
+    width: auto;
+}
+
+.me {
+    font-size: 45px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+}
+
+.dynamic-text{
+    color: white;
+    font-size: 65px;
+    font-weight: bolder;
+    margin-left: 30px;
+
+}
+
+.binita-pic {
+    height: 70%;
+    width: 70%;
+    margin-left: 222px;
+}
